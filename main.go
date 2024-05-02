@@ -88,3 +88,6 @@ func main() {
 //Enable Telnet on windows
 //open powershell as administrator
 // Enable-WindowsOptionalFeature -FeatureName TelnetClient -Online
+
+//Example usage
+// telnet localhost 6379
